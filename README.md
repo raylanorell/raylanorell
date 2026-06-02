@@ -29,7 +29,7 @@ I build systems that are transparent, reproducible, and designed to work without
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![Unifi](https://img.shields.io/badge/Unifi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 
-DNS (PowerDNS · dnsdist · Hagezi) · IPv4/IPv6 dual-stack · DDNS · Reverse Proxy · MediaWiki
+DNS (PowerDNS · dnsdist · BIND) · IPv4/IPv6 dual-stack · DDNS · Reverse Proxy · MediaWiki
 
 ## Learning & Building
 
