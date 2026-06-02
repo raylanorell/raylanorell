@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## About
 
 System Engineer focused on Linux infrastructure, network security, and open-source technology.
@@ -16,8 +14,6 @@ I build systems that are transparent, reproducible, and designed to work without
 - Working on **DNSGuardian** – privacy-first DNS infrastructure with RPZ filtering
 - Next up: exploring **Matrix** as a federated communication layer
 - Interested in: DNS · PKI · VPN architecture · digital autonomy · open infrastructure
-
----
 
 ## Active Stack
 
@@ -32,8 +28,6 @@ I build systems that are transparent, reproducible, and designed to work without
 
 DNS (PowerDNS · dnsdist · Hagezi) · IPv4/IPv6 dual-stack · DDNS · Reverse Proxy · MediaWiki
 
----
-
 ## Learning & Building
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -45,8 +39,6 @@ DNS (PowerDNS · dnsdist · Hagezi) · IPv4/IPv6 dual-stack · DDNS · Reverse P
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 
----
-
 ## Projects
 
 ### DNSGuardian
@@ -57,8 +49,6 @@ Primary and secondary authoritative PowerDNS servers with redundant recursive re
 Full IPv4/IPv6 dual-stack. Users can request domain whitelisting via [dnsguardian.ch](https://dnsguardian.ch).
 
 `PowerDNS` `dnsdist` `Nginx` `IPv6` `DDNS`
-
----
 
 ## Contact
 
