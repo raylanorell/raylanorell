@@ -1,11 +1,12 @@
 <div align="center">
 
-# Turukmoorea
+# Rayla Norell
 
 *Open networks. Own infrastructure. By design.*
 
 </div>
 
+---
 
 ## About
 
@@ -16,6 +17,7 @@ I build systems that are transparent, reproducible, and designed to work without
 - Next up: exploring **Matrix** as a federated communication layer
 - Interested in: DNS · PKI · VPN architecture · digital autonomy · open infrastructure
 
+---
 
 ## Active Stack
 
@@ -30,6 +32,8 @@ I build systems that are transparent, reproducible, and designed to work without
 
 DNS (PowerDNS · dnsdist · Hagezi) · IPv4/IPv6 dual-stack · DDNS · Reverse Proxy · MediaWiki
 
+---
+
 ## Learning & Building
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -41,6 +45,7 @@ DNS (PowerDNS · dnsdist · Hagezi) · IPv4/IPv6 dual-stack · DDNS · Reverse P
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 
+---
 
 ## Projects
 
@@ -53,8 +58,10 @@ Full IPv4/IPv6 dual-stack. Users can request domain whitelisting via [dnsguardia
 
 `PowerDNS` `dnsdist` `Nginx` `IPv6` `DDNS`
 
+---
+
 ## Contact
 
-- **Email:** [mail@turukmoorea.ch](mailto:mail@turukmoorea.ch)
-- **OpenPGP:** [keys.openpgp.org](https://keys.openpgp.org/search?q=mail%40turukmoorea.ch)
+- **Email:** [rayla@norell.ch](mailto:rayla@norell.ch)
+- **OpenPGP:** [keys.openpgp.org](https://keys.openpgp.org/search?q=rayla%40norell.ch)
 - **Languages:** DE / EN
