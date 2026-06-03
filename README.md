@@ -14,7 +14,7 @@
 System Engineer focused on Linux infrastructure, network security, and open-source technology.
 I build systems that are transparent, reproducible, and designed to work without hand-holding.
 
-- Working on **DNSGuardian** – privacy-first DNS infrastructure with RPZ filtering
+- Working on **[DNSGuardian](https://github.com/dnsguardian)** – privacy-first DNS infrastructure with RPZ filtering
 - Next up: exploring **Matrix** as a federated communication layer
 - Interested in: DNS · PKI · VPN architecture · digital autonomy · open infrastructure
 
@@ -45,13 +45,14 @@ DNS (PowerDNS · dnsdist · BIND) · IPv4/IPv6 dual-stack · DDNS · Reverse Pro
 ## Projects
 
 ### DNSGuardian
-
-> Resilient, privacy-first DNS infrastructure for multi-site deployments.
+> Privacy-first DNS resolver – no logging, no censorship, aggressive blocking of Ads, Tracking, Telemetry, Phishing, Malware, Scam and more.
 
 Primary and secondary authoritative PowerDNS servers with redundant recursive resolvers and RPZ-based domain filtering (Hagezi blocklists).
 Full IPv4/IPv6 dual-stack. Users can request domain whitelisting via [dnsguardian.ch](https://dnsguardian.ch).
 
 `PowerDNS` `dnsdist` `Nginx` `IPv6` `DDNS`
+
+→ [github.com/dnsguardian](https://github.com/dnsguardian)
 
 ## Contact
 
