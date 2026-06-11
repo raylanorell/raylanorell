@@ -11,6 +11,8 @@
 
 ## About
 
+**This account is no longer in use. Check out my [GitLab account](https://gitlab.com/raylanorell).**
+
 System Engineer focused on Linux infrastructure, network security, and open-source technology.
 I build systems that are transparent, reproducible, and designed to work without hand-holding.
 
